@@ -5,12 +5,12 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "aheckmann/sliced": "*"
   },
   "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
-    "index.js"
+    "index.js",
+    "lib/adapter.js"
   ]
 }
